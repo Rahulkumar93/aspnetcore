@@ -5,8 +5,8 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Testing;
-using Microsoft.AspNetCore.Testing.xunit;
 using Xunit;
+
 namespace Microsoft.AspNetCore.Http.Tests
 {
     public class BindingAddressTests
